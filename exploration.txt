@@ -1,0 +1,14 @@
+MTHFR
+
+Astro1
+	>ref|XM_047421181.1|:1-6865 PREDICTED: Homo sapiens methylenetetrahydrofolate reductase (MTHFR), transcript variant X8, mRNA
+Astro2
+	>NM_001330358.2 Homo sapiens methylenetetrahydrofolate reductase (MTHFR), transcript variant 1, mRNA
+Astro3
+	>XM_005263462.5 PREDICTED: Homo sapiens methylenetetrahydrofolate reductase (MTHFR), transcript variant X3, mRNA
+Astro4
+	>XM_005263463.5 PREDICTED: Homo sapiens methylenetetrahydrofolate reductase (MTHFR), transcript variant X9, mRNA
+Astro5
+	>XM_017001328.3 PREDICTED: Homo sapiens methylenetetrahydrofolate reductase (MTHFR), transcript variant X5, mRNA
+
+
